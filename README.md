@@ -48,10 +48,5 @@ Real-time results are visualized on a **Flask-powered web dashboard** for easy m
    ```bash
    python server.py
 
-## 👨‍💻 Team
 
-- Ridma Jayawardena – System Design & ML Model Deployment
-- Iwanthi Abeysinghe – Data Collection & Analysis
-- Janani Amarathunga – Firmware Integration
-- Chamodya Morapitiya – Web Visualization
 
